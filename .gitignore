@@ -1,0 +1,5 @@
+# Don't include example input files
+*.txt
+
+# Don't include macOS specific files
+.DS_Store
